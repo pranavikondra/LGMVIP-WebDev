@@ -15,18 +15,19 @@
 
 .container1 {
     padding: 50px 0;
-    background: #f6f9ff;
+    background: #fbfbfc;
     border-top: 1px solid #e1ecff;
 }
 
-.container1 h4 {
+
+/* .container1 h4 {
     font-size: 24px;
     margin: 0 0 10px 0;
     padding: 0;
     line-height: 1;
     font-weight: 700;
     color: #012970;
-}
+} */
 
 .container1 form {
     margin-top: 20px;
@@ -260,4 +261,8 @@ img {
     position: relative;
     top: -5px;
     bottom: -5px;
+}
+
+.footer {
+    background-color: #e8e8eb;
 }
